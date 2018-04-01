@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elviera_1202152335_modul6.iml" filepath="$PROJECT_DIR$/elviera_1202152335_modul6.iml" />
+      <module fileurl="file://E:\ANDROID\elviera_1202152335_modul6\filhandennis_1202150079_modul6.iml" filepath="E:\ANDROID\elviera_1202152335_modul6\filhandennis_1202150079_modul6.iml" />
+    </modules>
+  </component>
+</project>
